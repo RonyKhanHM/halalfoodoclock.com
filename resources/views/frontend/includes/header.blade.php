@@ -99,14 +99,38 @@
                                 </a>
                             </li>
                             <li class="dynamic-page-list-item">
-                                <a href="shop.html" class="dynamic-page-list-item-link">
+                                <a href="{{url('/menu')}}" class="dynamic-page-list-item-link">
+                                  Menu
+                                </a>
+                            </li>
+                            <li class="dynamic-page-list-item">
+                                <a href="{{url('/dishes')}}" class="dynamic-page-list-item-link">
                                   Dishes
                                 </a>
                             </li>
+                            <li class="dynamic-page-list-item">
+                                <a href="{{url('/special')}}" class="dynamic-page-list-item-link">
+                                  Specials
+                                </a>
                             </li>
                             <li class="dynamic-page-list-item">
-                                <a href="return-process.html" class="dynamic-page-list-item-link">
+                                <a href="{{url('/combo-offer')}}" class="dynamic-page-list-item-link">
                                     Combo Offer
+                                </a>
+                            </li>
+                            <li class="dynamic-page-list-item">
+                                <a href="shop.html" class="dynamic-page-list-item-link">
+                                  Contact
+                                </a>
+                            </li>
+                            <li class="dynamic-page-list-item">
+                                <a href="shop.html" class="dynamic-page-list-item-link">
+                                  About
+                                </a>
+                            </li>
+                            <li class="dynamic-page-list-item">
+                                <a href="{{url('/table-book')}}" class="dynamic-page-list-item-link, btn btn-warning">
+                                  Book A Table
                                 </a>
                             </li>
                         </ul>

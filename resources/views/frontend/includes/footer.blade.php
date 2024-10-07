@@ -49,23 +49,23 @@
                                     Address:
                                 </p>
                                 <p class="footer__contact-info-list-item-value">
-                                    Uttara, Dhaka
+                                    521 Church Lane. Yeadon, PA 19050
                                 </p>
                             </li>
                             <li class="footer__contact-info-list-item">
                                 <p class="footer__contact-info-list-item-label">
                                     Phone:
                                 </p>
-                                <a href="tel:0123456857" class="footer__contact-info-list-item-value">
-                                    0123456857
+                                <a href="tel:+1 (267) 475-3221" class="footer__contact-info-list-item-value">
+                                    +1 (267) 475-3221
                                 </a>
                             </li>
                             <li class="footer__contact-info-list-item">
                                 <p class="footer__contact-info-list-item-label">
                                     Email:
                                 </p>
-                                <a href="mailto:info@gmail.com" class="footer__contact-info-list-item-value">
-                                    info@gmail.com
+                                <a href="mailto:halalfoodlover69@gmail.com" class="footer__contact-info-list-item-value">
+                                    halalfoodlover69@gmail.com
                                 </a>
                             </li>
                         </ul>
